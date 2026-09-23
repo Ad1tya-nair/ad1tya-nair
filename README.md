@@ -233,7 +233,7 @@ A railway monitoring system combining computer vision with embedded hardware to 
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,git,github,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,github,firebase,supabase" />
 
 <br><br>
 
